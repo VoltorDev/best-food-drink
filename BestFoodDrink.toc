@@ -1,0 +1,32 @@
+## Interface: 16001
+## AllowLoadGameType: camelot, forever
+## ExcludeLoadGameType: standard, classic
+## Title: Best Food & Drink
+## Notes: Two macros that always use your best food and your best drink, updated automatically.
+## Notes-esES: Dos macros que usan siempre tu mejor comida y tu mejor bebida, y se actualizan solas.
+## Notes-esMX: Dos macros que usan siempre tu mejor comida y tu mejor bebida, y se actualizan solas.
+## Author: Nico
+## Version: @project-version@
+## IconTexture: Interface\Icons\INV_Misc_Fork&Knife
+## SavedVariables: BestFoodDrinkDB
+## SavedVariablesPerCharacter: BestFoodDrinkCharDB
+## AddonCompartmentFunc: BestFoodDrink_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: BestFoodDrink_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: BestFoodDrink_OnAddonCompartmentLeave
+## X-Game: [Game]
+## X-Family: [Family]
+## X-Flavor: Forever
+## X-License: MIT
+## X-Curse-Project-ID: 0
+## X-Wago-ID: 0
+
+Locales\enUS.lua
+Locales\esES.lua
+Detect.lua
+Identity.lua
+Secrets.lua
+Core.lua
+Config.lua
+Modules\Picker.lua
+Modules\Macros.lua
+Slash.lua
