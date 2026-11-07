@@ -20,7 +20,7 @@ Preparado el 05-11-2026. Paquete: `mods\wow\dist\BestFoodDrink-0.1.0.zip` (gener
 | Versión de juego | **Forever 1.60.1** (Interface 16001). No marcar retail ni Classic |
 | Tipo de fichero | Release (decisión de Nico) |
 | Avatar | `docs/avatar-curseforge.png` (lo dibuja `mods/herramientas/avatares_curseforge.py bestfooddrink`) |
-| Capturas | **Faltan**: las dos macros en la barra y la salida de `/bfd`. Solo en el juego |
+| Capturas | `docs/screenshots/`: `options.png` (cliente en inglés, brujo nivel 9, 07-11-2026). Falta: las macros en la barra y la salida de `/bfd` (el chat de este cliente no enseña la salida de los addons). |
 
 ## Descripción (pegar en el editor de CurseForge)
 
@@ -88,3 +88,5 @@ automatically, prefer food with a buff. Commands: /bfd, /bfd create, /bfd config
 ## Registro de publicación
 
 **Subido el 05-11-2026 (por Claude, con la sesión de Nico en Chrome, por orden suya y como Release por decisión suya):** proyecto «Best Food & Drink», n.º **1785828** (`https://authors.curseforge.com/#/projects/1785828`), estado «New» hasta que lo apruebe un moderador. Fichero «Best Food & Drink 0.1.0», tipo **Release** (no Beta, aunque no se ha probado en el cliente), versión Forever 1.60.1, publicación automática al aprobarse, changelog del kit sin «(beta)». Categorías Bags & Inventory + Action Bars, comentarios activados, licencia MIT, distribución a terceros permitida, donaciones Ko-fi `thevoltor` (comprobado tras recargar). Al acabar, el fichero seguía en estado «Uploading/Processing» en la lista. Falta: capturas (solo en el juego) y verlo en el cliente.
+
+**Capturas (07-11-2026, por Claude con la sesión de Nico en Chrome, por orden suya: «Faltan los otros addons»):** `options.png` de `docs/screenshots/` subidas a Media (galería), con el título por defecto de CurseForge. Falta: las macros en la barra y la salida de `/bfd` (el chat de este cliente no enseña la salida de los addons).

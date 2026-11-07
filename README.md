@@ -76,3 +76,7 @@ C:\Users\Nico\.claude\skills\wow-addons\scripts\verificar-addon.ps1 -Carpeta .
 ## Licencia
 
 MIT (ver `LICENSE`).
+
+## Capturas
+
+![Opciones](docs/screenshots/options.png)
